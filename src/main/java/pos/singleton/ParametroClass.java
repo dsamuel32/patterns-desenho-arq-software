@@ -1,4 +1,4 @@
-package pos;
+package pos.singleton;
 
 public class ParametroClass {
 

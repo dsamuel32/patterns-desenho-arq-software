@@ -1,4 +1,4 @@
-package pos.contato;
+package pos.factorymethod;
 
 public interface ContatoIntF {
 
